@@ -1,0 +1,92 @@
+1) phone button doesnt work
+Steps to reproduce:
+1. go to https://arrestling.com/
+2. on main page tap on phone number
+Expected result: the window with ability to call  opens
+Actual result: nothing happens
+enviroment:Chrome 94.0.4606.71
+Android 11; M2004J19C Build/RP1A.200720.011
+Secerity major
+Author Kh. Chaban
+
+2)page with schedule does not match the screen extension
+Steps to reproduce:
+1. go to https://arrestling.com/
+2. in search line type "restling" and click enter
+3. in new page tap on "schedule"
+Expected result: you can comfortable read a schedule on your screen
+Actual result: page with schedule does not match the screen extension
+Secerity major
+enviroment:Chrome 94.0.4606.71
+Author Kh. Chaban
+
+3)selecting of two images when you tap on one of them
+Steps to reproduce:
+1. go to https://arrestling.com/
+2. scroll to "finalOps" and "Arrestling training manuals"  and click on one of them in order
+Expected result: the image you tap on selects 
+Actual result: both imagines are selected
+enviroment:Chrome 94.0.4606.71
+Android 11; M2004J19C Build/RP1A.200720.011
+Secerity minor
+Author Kh. Chaban
+
+4)communication button "fb" doesn't work
+Steps to reproduce:
+1. go to https://arrestling.com/
+2. scroll to "polis solutions" and click on it
+3. tap there on communication button and choose "facebook"
+Expected result: you can write them on fb
+Actual result:button "fb" doesn't work
+Secerity major
+enviroment:Chrome 94.0.4606.71
+Android 11; M2004J19C Build/RP1A.200720.011
+Author Kh. Chaban
+
+5) name field doesn't work correct
+Steps to reproduce:
+1. go to https://arrestling.com/
+2.in burger menu tap on "store"
+3. in new page click on "sort by" and choose in radio button "newest arrivals"
+4. tap on the firs item
+5. in name fiel type invalid text
+Expected result: it doesn't allow you to type invalid text
+Actual result: it allows you to type invalid text
+Secerity major
+enviroment:Chrome 94.0.4606.71
+Android 11; M2004J19C Build/RP1A.200720.011
+Author Kh. Chaban
+
+6) link doesn't work correct
+Steps to reproduce:
+1. go to https://arrestling.com/
+2.in burger menu tap on arrestling founder Don Gulla 
+3. in new page scroll to link http://966.yssecure.com/advisory-board and click on it 
+Expected result: it opens
+Actual result: it doesn't work correct
+Secerity critical
+enviroment: chrome 81.0.4044.138
+android 10; SM-J400F Buid/QP1A.190711.020
+Author Kh. Chaban
+
+7) a button with a phone number doesn't work
+Steps to reproduce:
+1. go to https://arrestling.com/
+2.in burger menu tap on "contact"
+3. in a new page tap on a phone number 
+Expected result: it opens a window for a call
+Actual result: it doesn't work
+Secerity major
+enviroment: chrome 81.0.4044.138
+android 10; SM-J400F Buid/QP1A.190711.020
+Author Kh. Chaban
+
+8) the design of the contact buttons is different
+1. go to https://arrestling.com/
+2.in burger menu click on "contact"
+Expected result: the design of the contact buttons is the same
+Actual result: the design of the contact buttons is different
+Secerity minor
+enviroment: chrome 81.0.4044.138
+android 10; SM-J400F Buid/QP1A.190711.020
+Author Kh. Chaban
